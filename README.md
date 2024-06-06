@@ -1,12 +1,7 @@
 <div align="center">
 
-# Welcome to my GitHub profile!
 
-![gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47h3w7w2sti2h9fb4np9tiwc6dgqo2tuzi098zvzo9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
----
-
-### About Me:
+# About Me:
 
 🌎 I'm Paolo Spoto, I'm 21 and I live in Palermo, Italy  
 💻 Software Developer at [**Infobiotech Srl.**](https://infobiotech.com/it/)  
